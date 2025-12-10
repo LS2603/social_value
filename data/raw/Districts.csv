@@ -1,0 +1,1378 @@
+﻿la_district_code,la_district_name,domain,rank
+E06000001,Hartlepool,Income,29
+E06000002,Middlesbrough,Income,18
+E06000003,Redcar and Cleveland,Income,53
+E06000004,Stockton-on-Tees,Income,82
+E06000005,Darlington,Income,80
+E06000006,Halton,Income,60
+E06000007,Warrington,Income,126
+E06000008,Blackburn with Darwen,Income,13
+E06000009,Blackpool,Income,10
+E06000010,"Kingston upon Hull, City of",Income,16
+E06000011,East Riding of Yorkshire,Income,130
+E06000012,North East Lincolnshire,Income,56
+E06000013,North Lincolnshire,Income,81
+E06000014,York,Income,147
+E06000015,Derby,Income,47
+E06000016,Leicester,Income,12
+E06000017,Rutland,Income,150
+E06000018,Nottingham,Income,28
+E06000019,"Herefordshire, County of",Income,106
+E06000020,Telford and Wrekin,Income,50
+E06000021,Stoke-on-Trent,Income,27
+E06000022,Bath and North East Somerset,Income,144
+E06000023,"Bristol, City of",Income,98
+E06000024,North Somerset,Income,127
+E06000025,South Gloucestershire,Income,138
+E06000026,Plymouth,Income,71
+E06000027,Torbay,Income,51
+E06000030,Swindon,Income,100
+E06000031,Peterborough,Income,34
+E06000032,Luton,Income,8
+E06000033,Southend-on-Sea,Income,73
+E06000034,Thurrock,Income,68
+E06000035,Medway,Income,75
+E06000036,Bracknell Forest,Income,142
+E06000037,West Berkshire,Income,143
+E06000038,Reading,Income,86
+E06000039,Slough,Income,26
+E06000040,Windsor and Maidenhead,Income,149
+E06000041,Wokingham,Income,151
+E06000042,Milton Keynes,Income,85
+E06000043,Brighton and Hove,Income,92
+E06000044,Portsmouth,Income,61
+E06000045,Southampton,Income,57
+E06000046,Isle of Wight,Income,66
+E06000047,County Durham,Income,59
+E06000049,Cheshire East,Income,139
+E06000050,Cheshire West and Chester,Income,125
+E06000051,Shropshire,Income,118
+E06000052,Cornwall,Income,76
+E06000053,Isles of Scilly,Income,153
+E06000054,Wiltshire,Income,135
+E06000055,Bedford,Income,88
+E06000056,Central Bedfordshire,Income,129
+E06000057,Northumberland,Income,101
+E06000058,"Bournemouth, Christchurch and Poole",Income,99
+E06000059,Dorset,Income,123
+E06000060,Buckinghamshire,Income,140
+E06000061,North Northamptonshire,Income,94
+E06000062,West Northamptonshire,Income,116
+E06000063,Cumberland,Income,104
+E06000064,Westmorland and Furness,Income,141
+E06000065,North Yorkshire,Income,136
+E06000066,Somerset,Income,107
+E08000001,Bolton,Income,35
+E08000002,Bury,Income,70
+E08000003,Manchester,Income,14
+E08000004,Oldham,Income,20
+E08000005,Rochdale,Income,23
+E08000006,Salford,Income,39
+E08000007,Stockport,Income,121
+E08000008,Tameside,Income,38
+E08000009,Trafford,Income,131
+E08000010,Wigan,Income,83
+E08000011,Knowsley,Income,22
+E08000012,Liverpool,Income,30
+E08000013,St. Helens,Income,64
+E08000014,Sefton,Income,79
+E08000015,Wirral,Income,78
+E08000016,Barnsley,Income,40
+E08000017,Doncaster,Income,41
+E08000018,Rotherham,Income,48
+E08000019,Sheffield,Income,72
+E08000021,Newcastle upon Tyne,Income,74
+E08000022,North Tyneside,Income,89
+E08000023,South Tyneside,Income,33
+E08000024,Sunderland,Income,36
+E08000025,Birmingham,Income,7
+E08000026,Coventry,Income,44
+E08000027,Dudley,Income,63
+E08000028,Sandwell,Income,4
+E08000029,Solihull,Income,115
+E08000030,Walsall,Income,19
+E08000031,Wolverhampton,Income,11
+E08000032,Bradford,Income,25
+E08000033,Calderdale,Income,67
+E08000034,Kirklees,Income,62
+E08000035,Leeds,Income,84
+E08000036,Wakefield,Income,65
+E08000037,Gateshead,Income,52
+E09000001,City of London,Income,152
+E09000002,Barking and Dagenham,Income,1
+E09000003,Barnet,Income,55
+E09000004,Bexley,Income,108
+E09000005,Brent,Income,6
+E09000006,Bromley,Income,132
+E09000007,Camden,Income,58
+E09000008,Croydon,Income,45
+E09000009,Ealing,Income,17
+E09000010,Enfield,Income,9
+E09000011,Greenwich,Income,37
+E09000012,Hackney,Income,5
+E09000013,Hammersmith and Fulham,Income,69
+E09000014,Haringey,Income,15
+E09000015,Harrow,Income,49
+E09000016,Havering,Income,93
+E09000017,Hillingdon,Income,54
+E09000018,Hounslow,Income,31
+E09000019,Islington,Income,21
+E09000020,Kensington and Chelsea,Income,114
+E09000021,Kingston upon Thames,Income,124
+E09000022,Lambeth,Income,46
+E09000023,Lewisham,Income,32
+E09000024,Merton,Income,96
+E09000025,Newham,Income,2
+E09000026,Redbridge,Income,42
+E09000027,Richmond upon Thames,Income,148
+E09000028,Southwark,Income,43
+E09000029,Sutton,Income,109
+E09000030,Tower Hamlets,Income,3
+E09000031,Waltham Forest,Income,24
+E09000032,Wandsworth,Income,102
+E09000033,Westminster,Income,77
+E10000003,Cambridgeshire,Income,134
+E10000007,Derbyshire,Income,105
+E10000008,Devon,Income,113
+E10000011,East Sussex,Income,91
+E10000012,Essex,Income,110
+E10000013,Gloucestershire,Income,128
+E10000014,Hampshire,Income,137
+E10000015,Hertfordshire,Income,120
+E10000016,Kent,Income,95
+E10000017,Lancashire,Income,90
+E10000018,Leicestershire,Income,133
+E10000019,Lincolnshire,Income,87
+E10000020,Norfolk,Income,97
+E10000024,Nottinghamshire,Income,103
+E10000025,Oxfordshire,Income,145
+E10000028,Staffordshire,Income,117
+E10000029,Suffolk,Income,111
+E10000030,Surrey,Income,146
+E10000031,Warwickshire,Income,122
+E10000032,West Sussex,Income,119
+E10000034,Worcestershire,Income,112
+E06000001,Hartlepool,Employment,6
+E06000002,Middlesbrough,Employment,9
+E06000003,Redcar and Cleveland,Employment,21
+E06000004,Stockton-on-Tees,Employment,62
+E06000005,Darlington,Employment,57
+E06000006,Halton,Employment,30
+E06000007,Warrington,Employment,103
+E06000008,Blackburn with Darwen,Employment,15
+E06000009,Blackpool,Employment,1
+E06000010,"Kingston upon Hull, City of",Employment,16
+E06000011,East Riding of Yorkshire,Employment,122
+E06000012,North East Lincolnshire,Employment,39
+E06000013,North Lincolnshire,Employment,58
+E06000014,York,Employment,144
+E06000015,Derby,Employment,40
+E06000016,Leicester,Employment,42
+E06000017,Rutland,Employment,149
+E06000018,Nottingham,Employment,37
+E06000019,"Herefordshire, County of",Employment,109
+E06000020,Telford and Wrekin,Employment,52
+E06000021,Stoke-on-Trent,Employment,14
+E06000022,Bath and North East Somerset,Employment,141
+E06000023,"Bristol, City of",Employment,100
+E06000024,North Somerset,Employment,117
+E06000025,South Gloucestershire,Employment,139
+E06000026,Plymouth,Employment,48
+E06000027,Torbay,Employment,20
+E06000030,Swindon,Employment,111
+E06000031,Peterborough,Employment,45
+E06000032,Luton,Employment,44
+E06000033,Southend-on-Sea,Employment,63
+E06000034,Thurrock,Employment,86
+E06000035,Medway,Employment,65
+E06000036,Bracknell Forest,Employment,146
+E06000037,West Berkshire,Employment,143
+E06000038,Reading,Employment,120
+E06000039,Slough,Employment,82
+E06000040,Windsor and Maidenhead,Employment,150
+E06000041,Wokingham,Employment,152
+E06000042,Milton Keynes,Employment,113
+E06000043,Brighton and Hove,Employment,88
+E06000044,Portsmouth,Employment,72
+E06000045,Southampton,Employment,74
+E06000046,Isle of Wight,Employment,32
+E06000047,County Durham,Employment,28
+E06000049,Cheshire East,Employment,130
+E06000050,Cheshire West and Chester,Employment,104
+E06000051,Shropshire,Employment,118
+E06000052,Cornwall,Employment,66
+E06000053,Isles of Scilly,Employment,153
+E06000054,Wiltshire,Employment,134
+E06000055,Bedford,Employment,99
+E06000056,Central Bedfordshire,Employment,138
+E06000057,Northumberland,Employment,80
+E06000058,"Bournemouth, Christchurch and Poole",Employment,91
+E06000059,Dorset,Employment,110
+E06000060,Buckinghamshire,Employment,142
+E06000061,North Northamptonshire,Employment,98
+E06000062,West Northamptonshire,Employment,127
+E06000063,Cumberland,Employment,70
+E06000064,Westmorland and Furness,Employment,128
+E06000065,North Yorkshire,Employment,132
+E06000066,Somerset,Employment,94
+E08000001,Bolton,Employment,25
+E08000002,Bury,Employment,54
+E08000003,Manchester,Employment,33
+E08000004,Oldham,Employment,12
+E08000005,Rochdale,Employment,10
+E08000006,Salford,Employment,47
+E08000007,Stockport,Employment,96
+E08000008,Tameside,Employment,22
+E08000009,Trafford,Employment,115
+E08000010,Wigan,Employment,51
+E08000011,Knowsley,Employment,2
+E08000012,Liverpool,Employment,18
+E08000013,St. Helens,Employment,23
+E08000014,Sefton,Employment,36
+E08000015,Wirral,Employment,38
+E08000016,Barnsley,Employment,17
+E08000017,Doncaster,Employment,27
+E08000018,Rotherham,Employment,29
+E08000019,Sheffield,Employment,77
+E08000021,Newcastle upon Tyne,Employment,81
+E08000022,North Tyneside,Employment,69
+E08000023,South Tyneside,Employment,5
+E08000024,Sunderland,Employment,8
+E08000025,Birmingham,Employment,7
+E08000026,Coventry,Employment,56
+E08000027,Dudley,Employment,46
+E08000028,Sandwell,Employment,3
+E08000029,Solihull,Employment,107
+E08000030,Walsall,Employment,11
+E08000031,Wolverhampton,Employment,4
+E08000032,Bradford,Employment,19
+E08000033,Calderdale,Employment,50
+E08000034,Kirklees,Employment,55
+E08000035,Leeds,Employment,90
+E08000036,Wakefield,Employment,41
+E08000037,Gateshead,Employment,26
+E09000001,City of London,Employment,151
+E09000002,Barking and Dagenham,Employment,13
+E09000003,Barnet,Employment,89
+E09000004,Bexley,Employment,116
+E09000005,Brent,Employment,53
+E09000006,Bromley,Employment,131
+E09000007,Camden,Employment,73
+E09000008,Croydon,Employment,59
+E09000009,Ealing,Employment,67
+E09000010,Enfield,Employment,31
+E09000011,Greenwich,Employment,64
+E09000012,Hackney,Employment,24
+E09000013,Hammersmith and Fulham,Employment,93
+E09000014,Haringey,Employment,35
+E09000015,Harrow,Employment,114
+E09000016,Havering,Employment,101
+E09000017,Hillingdon,Employment,95
+E09000018,Hounslow,Employment,76
+E09000019,Islington,Employment,34
+E09000020,Kensington and Chelsea,Employment,124
+E09000021,Kingston upon Thames,Employment,140
+E09000022,Lambeth,Employment,78
+E09000023,Lewisham,Employment,43
+E09000024,Merton,Employment,125
+E09000025,Newham,Employment,49
+E09000026,Redbridge,Employment,92
+E09000027,Richmond upon Thames,Employment,148
+E09000028,Southwark,Employment,68
+E09000029,Sutton,Employment,119
+E09000030,Tower Hamlets,Employment,61
+E09000031,Waltham Forest,Employment,60
+E09000032,Wandsworth,Employment,135
+E09000033,Westminster,Employment,97
+E10000003,Cambridgeshire,Employment,137
+E10000007,Derbyshire,Employment,84
+E10000008,Devon,Employment,105
+E10000011,East Sussex,Employment,71
+E10000012,Essex,Employment,112
+E10000013,Gloucestershire,Employment,126
+E10000014,Hampshire,Employment,136
+E10000015,Hertfordshire,Employment,129
+E10000016,Kent,Employment,87
+E10000017,Lancashire,Employment,75
+E10000018,Leicestershire,Employment,133
+E10000019,Lincolnshire,Employment,79
+E10000020,Norfolk,Employment,85
+E10000024,Nottinghamshire,Employment,83
+E10000025,Oxfordshire,Employment,147
+E10000028,Staffordshire,Employment,102
+E10000029,Suffolk,Employment,108
+E10000030,Surrey,Employment,145
+E10000031,Warwickshire,Employment,121
+E10000032,West Sussex,Employment,123
+E10000034,Worcestershire,Employment,106
+E06000001,Hartlepool,Education,41
+E06000002,Middlesbrough,Education,13
+E06000003,Redcar and Cleveland,Education,59
+E06000004,Stockton-on-Tees,Education,85
+E06000005,Darlington,Education,71
+E06000006,Halton,Education,40
+E06000007,Warrington,Education,125
+E06000008,Blackburn with Darwen,Education,11
+E06000009,Blackpool,Education,4
+E06000010,"Kingston upon Hull, City of",Education,3
+E06000011,East Riding of Yorkshire,Education,103
+E06000012,North East Lincolnshire,Education,23
+E06000013,North Lincolnshire,Education,46
+E06000014,York,Education,134
+E06000015,Derby,Education,39
+E06000016,Leicester,Education,2
+E06000017,Rutland,Education,149
+E06000018,Nottingham,Education,12
+E06000019,"Herefordshire, County of",Education,78
+E06000020,Telford and Wrekin,Education,52
+E06000021,Stoke-on-Trent,Education,5
+E06000022,Bath and North East Somerset,Education,137
+E06000023,"Bristol, City of",Education,73
+E06000024,North Somerset,Education,106
+E06000025,South Gloucestershire,Education,108
+E06000026,Plymouth,Education,45
+E06000027,Torbay,Education,20
+E06000030,Swindon,Education,57
+E06000031,Peterborough,Education,14
+E06000032,Luton,Education,8
+E06000033,Southend-on-Sea,Education,65
+E06000034,Thurrock,Education,34
+E06000035,Medway,Education,32
+E06000036,Bracknell Forest,Education,120
+E06000037,West Berkshire,Education,128
+E06000038,Reading,Education,66
+E06000039,Slough,Education,33
+E06000040,Windsor and Maidenhead,Education,143
+E06000041,Wokingham,Education,150
+E06000042,Milton Keynes,Education,90
+E06000043,Brighton and Hove,Education,111
+E06000044,Portsmouth,Education,29
+E06000045,Southampton,Education,36
+E06000046,Isle of Wight,Education,38
+E06000047,County Durham,Education,49
+E06000049,Cheshire East,Education,135
+E06000050,Cheshire West and Chester,Education,114
+E06000051,Shropshire,Education,99
+E06000052,Cornwall,Education,61
+E06000053,Isles of Scilly,Education,151
+E06000054,Wiltshire,Education,113
+E06000055,Bedford,Education,74
+E06000056,Central Bedfordshire,Education,95
+E06000057,Northumberland,Education,89
+E06000058,"Bournemouth, Christchurch and Poole",Education,102
+E06000059,Dorset,Education,84
+E06000060,Buckinghamshire,Education,133
+E06000061,North Northamptonshire,Education,47
+E06000062,West Northamptonshire,Education,80
+E06000063,Cumberland,Education,48
+E06000064,Westmorland and Furness,Education,110
+E06000065,North Yorkshire,Education,112
+E06000066,Somerset,Education,63
+E08000001,Bolton,Education,43
+E08000002,Bury,Education,83
+E08000003,Manchester,Education,30
+E08000004,Oldham,Education,10
+E08000005,Rochdale,Education,18
+E08000006,Salford,Education,26
+E08000007,Stockport,Education,127
+E08000008,Tameside,Education,44
+E08000009,Trafford,Education,146
+E08000010,Wigan,Education,60
+E08000011,Knowsley,Education,6
+E08000012,Liverpool,Education,21
+E08000013,St. Helens,Education,51
+E08000014,Sefton,Education,67
+E08000015,Wirral,Education,88
+E08000016,Barnsley,Education,17
+E08000017,Doncaster,Education,15
+E08000018,Rotherham,Education,27
+E08000019,Sheffield,Education,64
+E08000021,Newcastle upon Tyne,Education,58
+E08000022,North Tyneside,Education,104
+E08000023,South Tyneside,Education,56
+E08000024,Sunderland,Education,25
+E08000025,Birmingham,Education,16
+E08000026,Coventry,Education,35
+E08000027,Dudley,Education,37
+E08000028,Sandwell,Education,1
+E08000029,Solihull,Education,121
+E08000030,Walsall,Education,7
+E08000031,Wolverhampton,Education,19
+E08000032,Bradford,Education,9
+E08000033,Calderdale,Education,76
+E08000034,Kirklees,Education,62
+E08000035,Leeds,Education,77
+E08000036,Wakefield,Education,22
+E08000037,Gateshead,Education,53
+E09000001,City of London,Education,152
+E09000002,Barking and Dagenham,Education,24
+E09000003,Barnet,Education,140
+E09000004,Bexley,Education,96
+E09000005,Brent,Education,54
+E09000006,Bromley,Education,142
+E09000007,Camden,Education,131
+E09000008,Croydon,Education,100
+E09000009,Ealing,Education,97
+E09000010,Enfield,Education,42
+E09000011,Greenwich,Education,107
+E09000012,Hackney,Education,118
+E09000013,Hammersmith and Fulham,Education,144
+E09000014,Haringey,Education,79
+E09000015,Harrow,Education,124
+E09000016,Havering,Education,82
+E09000017,Hillingdon,Education,75
+E09000018,Hounslow,Education,72
+E09000019,Islington,Education,117
+E09000020,Kensington and Chelsea,Education,145
+E09000021,Kingston upon Thames,Education,147
+E09000022,Lambeth,Education,130
+E09000023,Lewisham,Education,129
+E09000024,Merton,Education,138
+E09000025,Newham,Education,31
+E09000026,Redbridge,Education,109
+E09000027,Richmond upon Thames,Education,153
+E09000028,Southwark,Education,132
+E09000029,Sutton,Education,136
+E09000030,Tower Hamlets,Education,98
+E09000031,Waltham Forest,Education,93
+E09000032,Wandsworth,Education,148
+E09000033,Westminster,Education,139
+E10000003,Cambridgeshire,Education,123
+E10000007,Derbyshire,Education,81
+E10000008,Devon,Education,94
+E10000011,East Sussex,Education,70
+E10000012,Essex,Education,68
+E10000013,Gloucestershire,Education,115
+E10000014,Hampshire,Education,122
+E10000015,Hertfordshire,Education,126
+E10000016,Kent,Education,69
+E10000017,Lancashire,Education,91
+E10000018,Leicestershire,Education,116
+E10000019,Lincolnshire,Education,50
+E10000020,Norfolk,Education,28
+E10000024,Nottinghamshire,Education,87
+E10000025,Oxfordshire,Education,119
+E10000028,Staffordshire,Education,86
+E10000029,Suffolk,Education,55
+E10000030,Surrey,Education,141
+E10000031,Warwickshire,Education,105
+E10000032,West Sussex,Education,101
+E10000034,Worcestershire,Education,92
+E06000001,Hartlepool,Health,5
+E06000002,Middlesbrough,Health,10
+E06000003,Redcar and Cleveland,Health,27
+E06000004,Stockton-on-Tees,Health,31
+E06000005,Darlington,Health,42
+E06000006,Halton,Health,17
+E06000007,Warrington,Health,80
+E06000008,Blackburn with Darwen,Health,20
+E06000009,Blackpool,Health,1
+E06000010,"Kingston upon Hull, City of",Health,18
+E06000011,East Riding of Yorkshire,Health,117
+E06000012,North East Lincolnshire,Health,54
+E06000013,North Lincolnshire,Health,64
+E06000014,York,Health,106
+E06000015,Derby,Health,43
+E06000016,Leicester,Health,51
+E06000017,Rutland,Health,148
+E06000018,Nottingham,Health,11
+E06000019,"Herefordshire, County of",Health,109
+E06000020,Telford and Wrekin,Health,45
+E06000021,Stoke-on-Trent,Health,9
+E06000022,Bath and North East Somerset,Health,137
+E06000023,"Bristol, City of",Health,63
+E06000024,North Somerset,Health,120
+E06000025,South Gloucestershire,Health,134
+E06000026,Plymouth,Health,46
+E06000027,Torbay,Health,28
+E06000030,Swindon,Health,107
+E06000031,Peterborough,Health,59
+E06000032,Luton,Health,60
+E06000033,Southend-on-Sea,Health,66
+E06000034,Thurrock,Health,91
+E06000035,Medway,Health,72
+E06000036,Bracknell Forest,Health,149
+E06000037,West Berkshire,Health,142
+E06000038,Reading,Health,90
+E06000039,Slough,Health,127
+E06000040,Windsor and Maidenhead,Health,152
+E06000041,Wokingham,Health,151
+E06000042,Milton Keynes,Health,93
+E06000043,Brighton and Hove,Health,79
+E06000044,Portsmouth,Health,57
+E06000045,Southampton,Health,35
+E06000046,Isle of Wight,Health,37
+E06000047,County Durham,Health,13
+E06000049,Cheshire East,Health,114
+E06000050,Cheshire West and Chester,Health,85
+E06000051,Shropshire,Health,105
+E06000052,Cornwall,Health,87
+E06000053,Isles of Scilly,Health,153
+E06000054,Wiltshire,Health,128
+E06000055,Bedford,Health,77
+E06000056,Central Bedfordshire,Health,129
+E06000057,Northumberland,Health,61
+E06000058,"Bournemouth, Christchurch and Poole",Health,86
+E06000059,Dorset,Health,123
+E06000060,Buckinghamshire,Health,147
+E06000061,North Northamptonshire,Health,82
+E06000062,West Northamptonshire,Health,112
+E06000063,Cumberland,Health,49
+E06000064,Westmorland and Furness,Health,116
+E06000065,North Yorkshire,Health,122
+E06000066,Somerset,Health,101
+E08000001,Bolton,Health,41
+E08000002,Bury,Health,52
+E08000003,Manchester,Health,4
+E08000004,Oldham,Health,29
+E08000005,Rochdale,Health,16
+E08000006,Salford,Health,14
+E08000007,Stockport,Health,74
+E08000008,Tameside,Health,23
+E08000009,Trafford,Health,102
+E08000010,Wigan,Health,38
+E08000011,Knowsley,Health,3
+E08000012,Liverpool,Health,2
+E08000013,St. Helens,Health,12
+E08000014,Sefton,Health,39
+E08000015,Wirral,Health,24
+E08000016,Barnsley,Health,7
+E08000017,Doncaster,Health,40
+E08000018,Rotherham,Health,15
+E08000019,Sheffield,Health,44
+E08000021,Newcastle upon Tyne,Health,34
+E08000022,North Tyneside,Health,50
+E08000023,South Tyneside,Health,8
+E08000024,Sunderland,Health,6
+E08000025,Birmingham,Health,19
+E08000026,Coventry,Health,33
+E08000027,Dudley,Health,68
+E08000028,Sandwell,Health,22
+E08000029,Solihull,Health,97
+E08000030,Walsall,Health,36
+E08000031,Wolverhampton,Health,25
+E08000032,Bradford,Health,32
+E08000033,Calderdale,Health,56
+E08000034,Kirklees,Health,58
+E08000035,Leeds,Health,70
+E08000036,Wakefield,Health,30
+E08000037,Gateshead,Health,21
+E09000001,City of London,Health,121
+E09000002,Barking and Dagenham,Health,53
+E09000003,Barnet,Health,141
+E09000004,Bexley,Health,115
+E09000005,Brent,Health,108
+E09000006,Bromley,Health,139
+E09000007,Camden,Health,73
+E09000008,Croydon,Health,94
+E09000009,Ealing,Health,110
+E09000010,Enfield,Health,103
+E09000011,Greenwich,Health,69
+E09000012,Hackney,Health,26
+E09000013,Hammersmith and Fulham,Health,78
+E09000014,Haringey,Health,89
+E09000015,Harrow,Health,144
+E09000016,Havering,Health,118
+E09000017,Hillingdon,Health,113
+E09000018,Hounslow,Health,125
+E09000019,Islington,Health,47
+E09000020,Kensington and Chelsea,Health,130
+E09000021,Kingston upon Thames,Health,143
+E09000022,Lambeth,Health,75
+E09000023,Lewisham,Health,62
+E09000024,Merton,Health,140
+E09000025,Newham,Health,71
+E09000026,Redbridge,Health,132
+E09000027,Richmond upon Thames,Health,150
+E09000028,Southwark,Health,67
+E09000029,Sutton,Health,133
+E09000030,Tower Hamlets,Health,48
+E09000031,Waltham Forest,Health,92
+E09000032,Wandsworth,Health,131
+E09000033,Westminster,Health,100
+E10000003,Cambridgeshire,Health,136
+E10000007,Derbyshire,Health,65
+E10000008,Devon,Health,96
+E10000011,East Sussex,Health,84
+E10000012,Essex,Health,111
+E10000013,Gloucestershire,Health,126
+E10000014,Hampshire,Health,135
+E10000015,Hertfordshire,Health,138
+E10000016,Kent,Health,95
+E10000017,Lancashire,Health,55
+E10000018,Leicestershire,Health,124
+E10000019,Lincolnshire,Health,76
+E10000020,Norfolk,Health,88
+E10000024,Nottinghamshire,Health,81
+E10000025,Oxfordshire,Health,146
+E10000028,Staffordshire,Health,83
+E10000029,Suffolk,Health,98
+E10000030,Surrey,Health,145
+E10000031,Warwickshire,Health,99
+E10000032,West Sussex,Health,119
+E10000034,Worcestershire,Health,104
+E06000001,Hartlepool,Crime,19
+E06000002,Middlesbrough,Crime,4
+E06000003,Redcar and Cleveland,Crime,39
+E06000004,Stockton-on-Tees,Crime,73
+E06000005,Darlington,Crime,62
+E06000006,Halton,Crime,44
+E06000007,Warrington,Crime,99
+E06000008,Blackburn with Darwen,Crime,37
+E06000009,Blackpool,Crime,2
+E06000010,"Kingston upon Hull, City of",Crime,3
+E06000011,East Riding of Yorkshire,Crime,136
+E06000012,North East Lincolnshire,Crime,42
+E06000013,North Lincolnshire,Crime,77
+E06000014,York,Crime,135
+E06000015,Derby,Crime,51
+E06000016,Leicester,Crime,16
+E06000017,Rutland,Crime,151
+E06000018,Nottingham,Crime,14
+E06000019,"Herefordshire, County of",Crime,142
+E06000020,Telford and Wrekin,Crime,78
+E06000021,Stoke-on-Trent,Crime,27
+E06000022,Bath and North East Somerset,Crime,130
+E06000023,"Bristol, City of",Crime,40
+E06000024,North Somerset,Crime,121
+E06000025,South Gloucestershire,Crime,131
+E06000026,Plymouth,Crime,84
+E06000027,Torbay,Crime,88
+E06000030,Swindon,Crime,105
+E06000031,Peterborough,Crime,46
+E06000032,Luton,Crime,74
+E06000033,Southend-on-Sea,Crime,60
+E06000034,Thurrock,Crime,61
+E06000035,Medway,Crime,30
+E06000036,Bracknell Forest,Crime,140
+E06000037,West Berkshire,Crime,146
+E06000038,Reading,Crime,71
+E06000039,Slough,Crime,34
+E06000040,Windsor and Maidenhead,Crime,139
+E06000041,Wokingham,Crime,150
+E06000042,Milton Keynes,Crime,90
+E06000043,Brighton and Hove,Crime,83
+E06000044,Portsmouth,Crime,17
+E06000045,Southampton,Crime,5
+E06000046,Isle of Wight,Crime,93
+E06000047,County Durham,Crime,49
+E06000049,Cheshire East,Crime,111
+E06000050,Cheshire West and Chester,Crime,108
+E06000051,Shropshire,Crime,143
+E06000052,Cornwall,Crime,145
+E06000053,Isles of Scilly,Crime,153
+E06000054,Wiltshire,Crime,147
+E06000055,Bedford,Crime,100
+E06000056,Central Bedfordshire,Crime,127
+E06000057,Northumberland,Crime,94
+E06000058,"Bournemouth, Christchurch and Poole",Crime,81
+E06000059,Dorset,Crime,144
+E06000060,Buckinghamshire,Crime,138
+E06000061,North Northamptonshire,Crime,92
+E06000062,West Northamptonshire,Crime,96
+E06000063,Cumberland,Crime,101
+E06000064,Westmorland and Furness,Crime,137
+E06000065,North Yorkshire,Crime,148
+E06000066,Somerset,Crime,119
+E08000001,Bolton,Crime,13
+E08000002,Bury,Crime,54
+E08000003,Manchester,Crime,1
+E08000004,Oldham,Crime,7
+E08000005,Rochdale,Crime,6
+E08000006,Salford,Crime,8
+E08000007,Stockport,Crime,79
+E08000008,Tameside,Crime,10
+E08000009,Trafford,Crime,95
+E08000010,Wigan,Crime,47
+E08000011,Knowsley,Crime,58
+E08000012,Liverpool,Crime,21
+E08000013,St. Helens,Crime,65
+E08000014,Sefton,Crime,91
+E08000015,Wirral,Crime,89
+E08000016,Barnsley,Crime,25
+E08000017,Doncaster,Crime,11
+E08000018,Rotherham,Crime,52
+E08000019,Sheffield,Crime,63
+E08000021,Newcastle upon Tyne,Crime,41
+E08000022,North Tyneside,Crime,72
+E08000023,South Tyneside,Crime,24
+E08000024,Sunderland,Crime,32
+E08000025,Birmingham,Crime,15
+E08000026,Coventry,Crime,59
+E08000027,Dudley,Crime,82
+E08000028,Sandwell,Crime,20
+E08000029,Solihull,Crime,106
+E08000030,Walsall,Crime,45
+E08000031,Wolverhampton,Crime,22
+E08000032,Bradford,Crime,9
+E08000033,Calderdale,Crime,33
+E08000034,Kirklees,Crime,38
+E08000035,Leeds,Crime,31
+E08000036,Wakefield,Crime,18
+E08000037,Gateshead,Crime,48
+E09000001,City of London,Crime,152
+E09000002,Barking and Dagenham,Crime,36
+E09000003,Barnet,Crime,98
+E09000004,Bexley,Crime,103
+E09000005,Brent,Crime,64
+E09000006,Bromley,Crime,115
+E09000007,Camden,Crime,67
+E09000008,Croydon,Crime,75
+E09000009,Ealing,Crime,76
+E09000010,Enfield,Crime,66
+E09000011,Greenwich,Crime,35
+E09000012,Hackney,Crime,12
+E09000013,Hammersmith and Fulham,Crime,69
+E09000014,Haringey,Crime,23
+E09000015,Harrow,Crime,124
+E09000016,Havering,Crime,107
+E09000017,Hillingdon,Crime,80
+E09000018,Hounslow,Crime,57
+E09000019,Islington,Crime,26
+E09000020,Kensington and Chelsea,Crime,56
+E09000021,Kingston upon Thames,Crime,133
+E09000022,Lambeth,Crime,43
+E09000023,Lewisham,Crime,29
+E09000024,Merton,Crime,109
+E09000025,Newham,Crime,53
+E09000026,Redbridge,Crime,86
+E09000027,Richmond upon Thames,Crime,132
+E09000028,Southwark,Crime,50
+E09000029,Sutton,Crime,110
+E09000030,Tower Hamlets,Crime,28
+E09000031,Waltham Forest,Crime,68
+E09000032,Wandsworth,Crime,97
+E09000033,Westminster,Crime,55
+E10000003,Cambridgeshire,Crime,129
+E10000007,Derbyshire,Crime,102
+E10000008,Devon,Crime,149
+E10000011,East Sussex,Crime,113
+E10000012,Essex,Crime,87
+E10000013,Gloucestershire,Crime,118
+E10000014,Hampshire,Crime,117
+E10000015,Hertfordshire,Crime,122
+E10000016,Kent,Crime,70
+E10000017,Lancashire,Crime,85
+E10000018,Leicestershire,Crime,114
+E10000019,Lincolnshire,Crime,116
+E10000020,Norfolk,Crime,125
+E10000024,Nottinghamshire,Crime,104
+E10000025,Oxfordshire,Crime,141
+E10000028,Staffordshire,Crime,134
+E10000029,Suffolk,Crime,128
+E10000030,Surrey,Crime,123
+E10000031,Warwickshire,Crime,112
+E10000032,West Sussex,Crime,126
+E10000034,Worcestershire,Crime,120
+E06000001,Hartlepool,Barriers,132
+E06000002,Middlesbrough,Barriers,80
+E06000003,Redcar and Cleveland,Barriers,118
+E06000004,Stockton-on-Tees,Barriers,137
+E06000005,Darlington,Barriers,141
+E06000006,Halton,Barriers,103
+E06000007,Warrington,Barriers,136
+E06000008,Blackburn with Darwen,Barriers,45
+E06000009,Blackpool,Barriers,126
+E06000010,"Kingston upon Hull, City of",Barriers,82
+E06000011,East Riding of Yorkshire,Barriers,86
+E06000012,North East Lincolnshire,Barriers,114
+E06000013,North Lincolnshire,Barriers,70
+E06000014,York,Barriers,130
+E06000015,Derby,Barriers,122
+E06000016,Leicester,Barriers,6
+E06000017,Rutland,Barriers,39
+E06000018,Nottingham,Barriers,79
+E06000019,"Herefordshire, County of",Barriers,26
+E06000020,Telford and Wrekin,Barriers,59
+E06000021,Stoke-on-Trent,Barriers,115
+E06000022,Bath and North East Somerset,Barriers,99
+E06000023,"Bristol, City of",Barriers,131
+E06000024,North Somerset,Barriers,89
+E06000025,South Gloucestershire,Barriers,112
+E06000026,Plymouth,Barriers,106
+E06000027,Torbay,Barriers,63
+E06000030,Swindon,Barriers,91
+E06000031,Peterborough,Barriers,21
+E06000032,Luton,Barriers,11
+E06000033,Southend-on-Sea,Barriers,119
+E06000034,Thurrock,Barriers,31
+E06000035,Medway,Barriers,27
+E06000036,Bracknell Forest,Barriers,43
+E06000037,West Berkshire,Barriers,62
+E06000038,Reading,Barriers,47
+E06000039,Slough,Barriers,5
+E06000040,Windsor and Maidenhead,Barriers,84
+E06000041,Wokingham,Barriers,88
+E06000042,Milton Keynes,Barriers,12
+E06000043,Brighton and Hove,Barriers,81
+E06000044,Portsmouth,Barriers,72
+E06000045,Southampton,Barriers,125
+E06000046,Isle of Wight,Barriers,29
+E06000047,County Durham,Barriers,87
+E06000049,Cheshire East,Barriers,117
+E06000050,Cheshire West and Chester,Barriers,102
+E06000051,Shropshire,Barriers,34
+E06000052,Cornwall,Barriers,16
+E06000053,Isles of Scilly,Barriers,10
+E06000054,Wiltshire,Barriers,61
+E06000055,Bedford,Barriers,46
+E06000056,Central Bedfordshire,Barriers,51
+E06000057,Northumberland,Barriers,93
+E06000058,"Bournemouth, Christchurch and Poole",Barriers,96
+E06000059,Dorset,Barriers,24
+E06000060,Buckinghamshire,Barriers,28
+E06000061,North Northamptonshire,Barriers,110
+E06000062,West Northamptonshire,Barriers,58
+E06000063,Cumberland,Barriers,60
+E06000064,Westmorland and Furness,Barriers,52
+E06000065,North Yorkshire,Barriers,55
+E06000066,Somerset,Barriers,25
+E08000001,Bolton,Barriers,85
+E08000002,Bury,Barriers,121
+E08000003,Manchester,Barriers,17
+E08000004,Oldham,Barriers,53
+E08000005,Rochdale,Barriers,69
+E08000006,Salford,Barriers,73
+E08000007,Stockport,Barriers,150
+E08000008,Tameside,Barriers,78
+E08000009,Trafford,Barriers,148
+E08000010,Wigan,Barriers,124
+E08000011,Knowsley,Barriers,109
+E08000012,Liverpool,Barriers,145
+E08000013,St. Helens,Barriers,144
+E08000014,Sefton,Barriers,146
+E08000015,Wirral,Barriers,151
+E08000016,Barnsley,Barriers,120
+E08000017,Doncaster,Barriers,74
+E08000018,Rotherham,Barriers,107
+E08000019,Sheffield,Barriers,128
+E08000021,Newcastle upon Tyne,Barriers,113
+E08000022,North Tyneside,Barriers,152
+E08000023,South Tyneside,Barriers,147
+E08000024,Sunderland,Barriers,139
+E08000025,Birmingham,Barriers,71
+E08000026,Coventry,Barriers,76
+E08000027,Dudley,Barriers,138
+E08000028,Sandwell,Barriers,68
+E08000029,Solihull,Barriers,143
+E08000030,Walsall,Barriers,127
+E08000031,Wolverhampton,Barriers,65
+E08000032,Bradford,Barriers,92
+E08000033,Calderdale,Barriers,104
+E08000034,Kirklees,Barriers,90
+E08000035,Leeds,Barriers,135
+E08000036,Wakefield,Barriers,111
+E08000037,Gateshead,Barriers,142
+E09000001,City of London,Barriers,140
+E09000002,Barking and Dagenham,Barriers,7
+E09000003,Barnet,Barriers,14
+E09000004,Bexley,Barriers,123
+E09000005,Brent,Barriers,1
+E09000006,Bromley,Barriers,105
+E09000007,Camden,Barriers,67
+E09000008,Croydon,Barriers,48
+E09000009,Ealing,Barriers,3
+E09000010,Enfield,Barriers,13
+E09000011,Greenwich,Barriers,22
+E09000012,Hackney,Barriers,23
+E09000013,Hammersmith and Fulham,Barriers,49
+E09000014,Haringey,Barriers,8
+E09000015,Harrow,Barriers,19
+E09000016,Havering,Barriers,50
+E09000017,Hillingdon,Barriers,15
+E09000018,Hounslow,Barriers,4
+E09000019,Islington,Barriers,44
+E09000020,Kensington and Chelsea,Barriers,66
+E09000021,Kingston upon Thames,Barriers,149
+E09000022,Lambeth,Barriers,35
+E09000023,Lewisham,Barriers,18
+E09000024,Merton,Barriers,129
+E09000025,Newham,Barriers,2
+E09000026,Redbridge,Barriers,37
+E09000027,Richmond upon Thames,Barriers,153
+E09000028,Southwark,Barriers,20
+E09000029,Sutton,Barriers,116
+E09000030,Tower Hamlets,Barriers,9
+E09000031,Waltham Forest,Barriers,36
+E09000032,Wandsworth,Barriers,133
+E09000033,Westminster,Barriers,38
+E10000003,Cambridgeshire,Barriers,54
+E10000007,Derbyshire,Barriers,108
+E10000008,Devon,Barriers,30
+E10000011,East Sussex,Barriers,40
+E10000012,Essex,Barriers,56
+E10000013,Gloucestershire,Barriers,83
+E10000014,Hampshire,Barriers,75
+E10000015,Hertfordshire,Barriers,101
+E10000016,Kent,Barriers,33
+E10000017,Lancashire,Barriers,98
+E10000018,Leicestershire,Barriers,100
+E10000019,Lincolnshire,Barriers,32
+E10000020,Norfolk,Barriers,41
+E10000024,Nottinghamshire,Barriers,134
+E10000025,Oxfordshire,Barriers,64
+E10000028,Staffordshire,Barriers,97
+E10000029,Suffolk,Barriers,42
+E10000030,Surrey,Barriers,94
+E10000031,Warwickshire,Barriers,95
+E10000032,West Sussex,Barriers,57
+E10000034,Worcestershire,Barriers,77
+E06000001,Hartlepool,Living ,134
+E06000002,Middlesbrough,Living ,92
+E06000003,Redcar and Cleveland,Living ,117
+E06000004,Stockton-on-Tees,Living ,146
+E06000005,Darlington,Living ,93
+E06000006,Halton,Living ,118
+E06000007,Warrington,Living ,107
+E06000008,Blackburn with Darwen,Living ,32
+E06000009,Blackpool,Living ,19
+E06000010,"Kingston upon Hull, City of",Living ,70
+E06000011,East Riding of Yorkshire,Living ,101
+E06000012,North East Lincolnshire,Living ,83
+E06000013,North Lincolnshire,Living ,130
+E06000014,York,Living ,132
+E06000015,Derby,Living ,75
+E06000016,Leicester,Living ,33
+E06000017,Rutland,Living ,81
+E06000018,Nottingham,Living ,35
+E06000019,"Herefordshire, County of",Living ,50
+E06000020,Telford and Wrekin,Living ,150
+E06000021,Stoke-on-Trent,Living ,73
+E06000022,Bath and North East Somerset,Living ,88
+E06000023,"Bristol, City of",Living ,45
+E06000024,North Somerset,Living ,139
+E06000025,South Gloucestershire,Living ,144
+E06000026,Plymouth,Living ,106
+E06000027,Torbay,Living ,77
+E06000030,Swindon,Living ,147
+E06000031,Peterborough,Living ,143
+E06000032,Luton,Living ,72
+E06000033,Southend-on-Sea,Living ,44
+E06000034,Thurrock,Living ,113
+E06000035,Medway,Living ,109
+E06000036,Bracknell Forest,Living ,152
+E06000037,West Berkshire,Living ,133
+E06000038,Reading,Living ,97
+E06000039,Slough,Living ,103
+E06000040,Windsor and Maidenhead,Living ,98
+E06000041,Wokingham,Living ,151
+E06000042,Milton Keynes,Living ,153
+E06000043,Brighton and Hove,Living ,59
+E06000044,Portsmouth,Living ,29
+E06000045,Southampton,Living ,68
+E06000046,Isle of Wight,Living ,91
+E06000047,County Durham,Living ,104
+E06000049,Cheshire East,Living ,108
+E06000050,Cheshire West and Chester,Living ,123
+E06000051,Shropshire,Living ,69
+E06000052,Cornwall,Living ,37
+E06000053,Isles of Scilly,Living ,1
+E06000054,Wiltshire,Living ,120
+E06000055,Bedford,Living ,112
+E06000056,Central Bedfordshire,Living ,148
+E06000057,Northumberland,Living ,115
+E06000058,"Bournemouth, Christchurch and Poole",Living ,121
+E06000059,Dorset,Living ,114
+E06000060,Buckinghamshire,Living ,142
+E06000061,North Northamptonshire,Living ,138
+E06000062,West Northamptonshire,Living ,128
+E06000063,Cumberland,Living ,71
+E06000064,Westmorland and Furness,Living ,27
+E06000065,North Yorkshire,Living ,63
+E06000066,Somerset,Living ,84
+E08000001,Bolton,Living ,48
+E08000002,Bury,Living ,43
+E08000003,Manchester,Living ,40
+E08000004,Oldham,Living ,23
+E08000005,Rochdale,Living ,60
+E08000006,Salford,Living ,46
+E08000007,Stockport,Living ,62
+E08000008,Tameside,Living ,52
+E08000009,Trafford,Living ,58
+E08000010,Wigan,Living ,85
+E08000011,Knowsley,Living ,136
+E08000012,Liverpool,Living ,36
+E08000013,St. Helens,Living ,79
+E08000014,Sefton,Living ,61
+E08000015,Wirral,Living ,54
+E08000016,Barnsley,Living ,125
+E08000017,Doncaster,Living ,110
+E08000018,Rotherham,Living ,126
+E08000019,Sheffield,Living ,76
+E08000021,Newcastle upon Tyne,Living ,65
+E08000022,North Tyneside,Living ,95
+E08000023,South Tyneside,Living ,87
+E08000024,Sunderland,Living ,89
+E08000025,Birmingham,Living ,26
+E08000026,Coventry,Living ,56
+E08000027,Dudley,Living ,96
+E08000028,Sandwell,Living ,47
+E08000029,Solihull,Living ,127
+E08000030,Walsall,Living ,67
+E08000031,Wolverhampton,Living ,74
+E08000032,Bradford,Living ,25
+E08000033,Calderdale,Living ,17
+E08000034,Kirklees,Living ,39
+E08000035,Leeds,Living ,49
+E08000036,Wakefield,Living ,100
+E08000037,Gateshead,Living ,80
+E09000001,City of London,Living ,2
+E09000002,Barking and Dagenham,Living ,42
+E09000003,Barnet,Living ,30
+E09000004,Bexley,Living ,64
+E09000005,Brent,Living ,22
+E09000006,Bromley,Living ,66
+E09000007,Camden,Living ,5
+E09000008,Croydon,Living ,38
+E09000009,Ealing,Living ,21
+E09000010,Enfield,Living ,24
+E09000011,Greenwich,Living ,41
+E09000012,Hackney,Living ,13
+E09000013,Hammersmith and Fulham,Living ,6
+E09000014,Haringey,Living ,9
+E09000015,Harrow,Living ,51
+E09000016,Havering,Living ,90
+E09000017,Hillingdon,Living ,55
+E09000018,Hounslow,Living ,16
+E09000019,Islington,Living ,10
+E09000020,Kensington and Chelsea,Living ,3
+E09000021,Kingston upon Thames,Living ,31
+E09000022,Lambeth,Living ,7
+E09000023,Lewisham,Living ,14
+E09000024,Merton,Living ,28
+E09000025,Newham,Living ,15
+E09000026,Redbridge,Living ,34
+E09000027,Richmond upon Thames,Living ,11
+E09000028,Southwark,Living ,12
+E09000029,Sutton,Living ,57
+E09000030,Tower Hamlets,Living ,20
+E09000031,Waltham Forest,Living ,18
+E09000032,Wandsworth,Living ,8
+E09000033,Westminster,Living ,4
+E10000003,Cambridgeshire,Living ,137
+E10000007,Derbyshire,Living ,82
+E10000008,Devon,Living ,78
+E10000011,East Sussex,Living ,119
+E10000012,Essex,Living ,131
+E10000013,Gloucestershire,Living ,105
+E10000014,Hampshire,Living ,149
+E10000015,Hertfordshire,Living ,135
+E10000016,Kent,Living ,122
+E10000017,Lancashire,Living ,53
+E10000018,Leicestershire,Living ,141
+E10000019,Lincolnshire,Living ,102
+E10000020,Norfolk,Living ,86
+E10000024,Nottinghamshire,Living ,111
+E10000025,Oxfordshire,Living ,145
+E10000028,Staffordshire,Living ,129
+E10000029,Suffolk,Living ,94
+E10000030,Surrey,Living ,124
+E10000031,Warwickshire,Living ,99
+E10000032,West Sussex,Living ,140
+E10000034,Worcestershire,Living ,116
+E06000001,Hartlepool,IDACI,30
+E06000002,Middlesbrough,IDACI,18
+E06000003,Redcar and Cleveland,IDACI,49
+E06000004,Stockton-on-Tees,IDACI,88
+E06000005,Darlington,IDACI,77
+E06000006,Halton,IDACI,61
+E06000007,Warrington,IDACI,126
+E06000008,Blackburn with Darwen,IDACI,23
+E06000009,Blackpool,IDACI,14
+E06000010,"Kingston upon Hull, City of",IDACI,19
+E06000011,East Riding of Yorkshire,IDACI,124
+E06000012,North East Lincolnshire,IDACI,43
+E06000013,North Lincolnshire,IDACI,71
+E06000014,York,IDACI,139
+E06000015,Derby,IDACI,42
+E06000016,Leicester,IDACI,13
+E06000017,Rutland,IDACI,149
+E06000018,Nottingham,IDACI,10
+E06000019,"Herefordshire, County of",IDACI,94
+E06000020,Telford and Wrekin,IDACI,39
+E06000021,Stoke-on-Trent,IDACI,20
+E06000022,Bath and North East Somerset,IDACI,141
+E06000023,"Bristol, City of",IDACI,86
+E06000024,North Somerset,IDACI,129
+E06000025,South Gloucestershire,IDACI,131
+E06000026,Plymouth,IDACI,74
+E06000027,Torbay,IDACI,52
+E06000030,Swindon,IDACI,111
+E06000031,Peterborough,IDACI,33
+E06000032,Luton,IDACI,8
+E06000033,Southend-on-Sea,IDACI,80
+E06000034,Thurrock,IDACI,79
+E06000035,Medway,IDACI,75
+E06000036,Bracknell Forest,IDACI,146
+E06000037,West Berkshire,IDACI,144
+E06000038,Reading,IDACI,91
+E06000039,Slough,IDACI,50
+E06000040,Windsor and Maidenhead,IDACI,150
+E06000041,Wokingham,IDACI,152
+E06000042,Milton Keynes,IDACI,101
+E06000043,Brighton and Hove,IDACI,104
+E06000044,Portsmouth,IDACI,60
+E06000045,Southampton,IDACI,40
+E06000046,Isle of Wight,IDACI,54
+E06000047,County Durham,IDACI,58
+E06000049,Cheshire East,IDACI,138
+E06000050,Cheshire West and Chester,IDACI,120
+E06000051,Shropshire,IDACI,113
+E06000052,Cornwall,IDACI,70
+E06000053,Isles of Scilly,IDACI,153
+E06000054,Wiltshire,IDACI,133
+E06000055,Bedford,IDACI,90
+E06000056,Central Bedfordshire,IDACI,128
+E06000057,Northumberland,IDACI,95
+E06000058,"Bournemouth, Christchurch and Poole",IDACI,98
+E06000059,Dorset,IDACI,110
+E06000060,Buckinghamshire,IDACI,142
+E06000061,North Northamptonshire,IDACI,92
+E06000062,West Northamptonshire,IDACI,117
+E06000063,Cumberland,IDACI,100
+E06000064,Westmorland and Furness,IDACI,134
+E06000065,North Yorkshire,IDACI,132
+E06000066,Somerset,IDACI,109
+E08000001,Bolton,IDACI,28
+E08000002,Bury,IDACI,72
+E08000003,Manchester,IDACI,6
+E08000004,Oldham,IDACI,17
+E08000005,Rochdale,IDACI,25
+E08000006,Salford,IDACI,26
+E08000007,Stockport,IDACI,127
+E08000008,Tameside,IDACI,37
+E08000009,Trafford,IDACI,145
+E08000010,Wigan,IDACI,87
+E08000011,Knowsley,IDACI,29
+E08000012,Liverpool,IDACI,22
+E08000013,St. Helens,IDACI,66
+E08000014,Sefton,IDACI,82
+E08000015,Wirral,IDACI,78
+E08000016,Barnsley,IDACI,38
+E08000017,Doncaster,IDACI,32
+E08000018,Rotherham,IDACI,45
+E08000019,Sheffield,IDACI,57
+E08000021,Newcastle upon Tyne,IDACI,56
+E08000022,North Tyneside,IDACI,107
+E08000023,South Tyneside,IDACI,41
+E08000024,Sunderland,IDACI,48
+E08000025,Birmingham,IDACI,4
+E08000026,Coventry,IDACI,31
+E08000027,Dudley,IDACI,55
+E08000028,Sandwell,IDACI,7
+E08000029,Solihull,IDACI,115
+E08000030,Walsall,IDACI,15
+E08000031,Wolverhampton,IDACI,16
+E08000032,Bradford,IDACI,21
+E08000033,Calderdale,IDACI,69
+E08000034,Kirklees,IDACI,62
+E08000035,Leeds,IDACI,76
+E08000036,Wakefield,IDACI,67
+E08000037,Gateshead,IDACI,59
+E09000001,City of London,IDACI,147
+E09000002,Barking and Dagenham,IDACI,9
+E09000003,Barnet,IDACI,73
+E09000004,Bexley,IDACI,116
+E09000005,Brent,IDACI,5
+E09000006,Bromley,IDACI,143
+E09000007,Camden,IDACI,64
+E09000008,Croydon,IDACI,53
+E09000009,Ealing,IDACI,24
+E09000010,Enfield,IDACI,11
+E09000011,Greenwich,IDACI,46
+E09000012,Hackney,IDACI,3
+E09000013,Hammersmith and Fulham,IDACI,83
+E09000014,Haringey,IDACI,27
+E09000015,Harrow,IDACI,51
+E09000016,Havering,IDACI,93
+E09000017,Hillingdon,IDACI,63
+E09000018,Hounslow,IDACI,35
+E09000019,Islington,IDACI,12
+E09000020,Kensington and Chelsea,IDACI,136
+E09000021,Kingston upon Thames,IDACI,135
+E09000022,Lambeth,IDACI,36
+E09000023,Lewisham,IDACI,47
+E09000024,Merton,IDACI,114
+E09000025,Newham,IDACI,2
+E09000026,Redbridge,IDACI,65
+E09000027,Richmond upon Thames,IDACI,151
+E09000028,Southwark,IDACI,44
+E09000029,Sutton,IDACI,123
+E09000030,Tower Hamlets,IDACI,1
+E09000031,Waltham Forest,IDACI,34
+E09000032,Wandsworth,IDACI,96
+E09000033,Westminster,IDACI,68
+E10000003,Cambridgeshire,IDACI,130
+E10000007,Derbyshire,IDACI,103
+E10000008,Devon,IDACI,108
+E10000011,East Sussex,IDACI,81
+E10000012,Essex,IDACI,112
+E10000013,Gloucestershire,IDACI,121
+E10000014,Hampshire,IDACI,137
+E10000015,Hertfordshire,IDACI,122
+E10000016,Kent,IDACI,97
+E10000017,Lancashire,IDACI,85
+E10000018,Leicestershire,IDACI,125
+E10000019,Lincolnshire,IDACI,84
+E10000020,Norfolk,IDACI,89
+E10000024,Nottinghamshire,IDACI,99
+E10000025,Oxfordshire,IDACI,140
+E10000028,Staffordshire,IDACI,106
+E10000029,Suffolk,IDACI,102
+E10000030,Surrey,IDACI,148
+E10000031,Warwickshire,IDACI,119
+E10000032,West Sussex,IDACI,118
+E10000034,Worcestershire,IDACI,105
+E06000001,Hartlepool,IDAOPI,33
+E06000002,Middlesbrough,IDAOPI,41
+E06000003,Redcar and Cleveland,IDAOPI,60
+E06000004,Stockton-on-Tees,IDAOPI,85
+E06000005,Darlington,IDAOPI,84
+E06000006,Halton,IDAOPI,68
+E06000007,Warrington,IDAOPI,126
+E06000008,Blackburn with Darwen,IDAOPI,38
+E06000009,Blackpool,IDAOPI,28
+E06000010,"Kingston upon Hull, City of",IDAOPI,24
+E06000011,East Riding of Yorkshire,IDAOPI,119
+E06000012,North East Lincolnshire,IDAOPI,72
+E06000013,North Lincolnshire,IDAOPI,88
+E06000014,York,IDAOPI,143
+E06000015,Derby,IDAOPI,75
+E06000016,Leicester,IDAOPI,15
+E06000017,Rutland,IDAOPI,151
+E06000018,Nottingham,IDAOPI,23
+E06000019,"Herefordshire, County of",IDAOPI,115
+E06000020,Telford and Wrekin,IDAOPI,56
+E06000021,Stoke-on-Trent,IDAOPI,44
+E06000022,Bath and North East Somerset,IDAOPI,134
+E06000023,"Bristol, City of",IDAOPI,64
+E06000024,North Somerset,IDAOPI,131
+E06000025,South Gloucestershire,IDAOPI,144
+E06000026,Plymouth,IDAOPI,77
+E06000027,Torbay,IDAOPI,61
+E06000030,Swindon,IDAOPI,98
+E06000031,Peterborough,IDAOPI,55
+E06000032,Luton,IDAOPI,37
+E06000033,Southend-on-Sea,IDAOPI,76
+E06000034,Thurrock,IDAOPI,69
+E06000035,Medway,IDAOPI,87
+E06000036,Bracknell Forest,IDAOPI,125
+E06000037,West Berkshire,IDAOPI,138
+E06000038,Reading,IDAOPI,52
+E06000039,Slough,IDAOPI,25
+E06000040,Windsor and Maidenhead,IDAOPI,149
+E06000041,Wokingham,IDAOPI,152
+E06000042,Milton Keynes,IDAOPI,79
+E06000043,Brighton and Hove,IDAOPI,49
+E06000044,Portsmouth,IDAOPI,54
+E06000045,Southampton,IDAOPI,40
+E06000046,Isle of Wight,IDAOPI,94
+E06000047,County Durham,IDAOPI,50
+E06000049,Cheshire East,IDAOPI,148
+E06000050,Cheshire West and Chester,IDAOPI,128
+E06000051,Shropshire,IDAOPI,111
+E06000052,Cornwall,IDAOPI,78
+E06000053,Isles of Scilly,IDAOPI,153
+E06000054,Wiltshire,IDAOPI,139
+E06000055,Bedford,IDAOPI,112
+E06000056,Central Bedfordshire,IDAOPI,133
+E06000057,Northumberland,IDAOPI,105
+E06000058,"Bournemouth, Christchurch and Poole",IDAOPI,96
+E06000059,Dorset,IDAOPI,137
+E06000060,Buckinghamshire,IDAOPI,147
+E06000061,North Northamptonshire,IDAOPI,102
+E06000062,West Northamptonshire,IDAOPI,124
+E06000063,Cumberland,IDAOPI,108
+E06000064,Westmorland and Furness,IDAOPI,145
+E06000065,North Yorkshire,IDAOPI,136
+E06000066,Somerset,IDAOPI,114
+E08000001,Bolton,IDAOPI,59
+E08000002,Bury,IDAOPI,89
+E08000003,Manchester,IDAOPI,8
+E08000004,Oldham,IDAOPI,65
+E08000005,Rochdale,IDAOPI,45
+E08000006,Salford,IDAOPI,34
+E08000007,Stockport,IDAOPI,117
+E08000008,Tameside,IDAOPI,53
+E08000009,Trafford,IDAOPI,106
+E08000010,Wigan,IDAOPI,90
+E08000011,Knowsley,IDAOPI,20
+E08000012,Liverpool,IDAOPI,19
+E08000013,St. Helens,IDAOPI,74
+E08000014,Sefton,IDAOPI,80
+E08000015,Wirral,IDAOPI,83
+E08000016,Barnsley,IDAOPI,51
+E08000017,Doncaster,IDAOPI,66
+E08000018,Rotherham,IDAOPI,62
+E08000019,Sheffield,IDAOPI,70
+E08000021,Newcastle upon Tyne,IDAOPI,42
+E08000022,North Tyneside,IDAOPI,71
+E08000023,South Tyneside,IDAOPI,31
+E08000024,Sunderland,IDAOPI,35
+E08000025,Birmingham,IDAOPI,27
+E08000026,Coventry,IDAOPI,67
+E08000027,Dudley,IDAOPI,81
+E08000028,Sandwell,IDAOPI,18
+E08000029,Solihull,IDAOPI,130
+E08000030,Walsall,IDAOPI,43
+E08000031,Wolverhampton,IDAOPI,32
+E08000032,Bradford,IDAOPI,58
+E08000033,Calderdale,IDAOPI,86
+E08000034,Kirklees,IDAOPI,91
+E08000035,Leeds,IDAOPI,82
+E08000036,Wakefield,IDAOPI,73
+E08000037,Gateshead,IDAOPI,39
+E09000001,City of London,IDAOPI,150
+E09000002,Barking and Dagenham,IDAOPI,7
+E09000003,Barnet,IDAOPI,46
+E09000004,Bexley,IDAOPI,104
+E09000005,Brent,IDAOPI,13
+E09000006,Bromley,IDAOPI,129
+E09000007,Camden,IDAOPI,11
+E09000008,Croydon,IDAOPI,63
+E09000009,Ealing,IDAOPI,22
+E09000010,Enfield,IDAOPI,29
+E09000011,Greenwich,IDAOPI,16
+E09000012,Hackney,IDAOPI,2
+E09000013,Hammersmith and Fulham,IDAOPI,9
+E09000014,Haringey,IDAOPI,10
+E09000015,Harrow,IDAOPI,48
+E09000016,Havering,IDAOPI,100
+E09000017,Hillingdon,IDAOPI,47
+E09000018,Hounslow,IDAOPI,21
+E09000019,Islington,IDAOPI,4
+E09000020,Kensington and Chelsea,IDAOPI,30
+E09000021,Kingston upon Thames,IDAOPI,92
+E09000022,Lambeth,IDAOPI,5
+E09000023,Lewisham,IDAOPI,12
+E09000024,Merton,IDAOPI,57
+E09000025,Newham,IDAOPI,3
+E09000026,Redbridge,IDAOPI,36
+E09000027,Richmond upon Thames,IDAOPI,118
+E09000028,Southwark,IDAOPI,6
+E09000029,Sutton,IDAOPI,95
+E09000030,Tower Hamlets,IDAOPI,1
+E09000031,Waltham Forest,IDAOPI,17
+E09000032,Wandsworth,IDAOPI,26
+E09000033,Westminster,IDAOPI,14
+E10000003,Cambridgeshire,IDAOPI,120
+E10000007,Derbyshire,IDAOPI,103
+E10000008,Devon,IDAOPI,116
+E10000011,East Sussex,IDAOPI,109
+E10000012,Essex,IDAOPI,107
+E10000013,Gloucestershire,IDAOPI,135
+E10000014,Hampshire,IDAOPI,141
+E10000015,Hertfordshire,IDAOPI,113
+E10000016,Kent,IDAOPI,99
+E10000017,Lancashire,IDAOPI,97
+E10000018,Leicestershire,IDAOPI,140
+E10000019,Lincolnshire,IDAOPI,93
+E10000020,Norfolk,IDAOPI,101
+E10000024,Nottinghamshire,IDAOPI,110
+E10000025,Oxfordshire,IDAOPI,142
+E10000028,Staffordshire,IDAOPI,123
+E10000029,Suffolk,IDAOPI,122
+E10000030,Surrey,IDAOPI,146
+E10000031,Warwickshire,IDAOPI,127
+E10000032,West Sussex,IDAOPI,132
+E10000034,Worcestershire,IDAOPI,121
