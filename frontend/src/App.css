@@ -1,59 +1,117 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+/* Global layout */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(59, 130, 246, 0.18), transparent 55%),
+    radial-gradient(circle at bottom right, rgba(16, 185, 129, 0.18), transparent 55%),
+    #f3f4f6;
+  color: #111827;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+main {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 1.5rem;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Headings */
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: #4b5563;
+}
+
+/* Layout: table + detail side by side on larger screens */
+@media (min-width: 900px) {
+  .layout {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 1.5rem;
+    align-items: flex-start;
   }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
+/* Generic card style */
 .card {
-  padding: 2em;
+  background: #ffffff;
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 10px 15px -10px rgba(15, 23, 42, 0.25);
 }
 
-.read-the-docs {
-  color: #888;
+/* Search input */
+.search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 1rem;
+  border-radius: 0.375rem;
+  border: 1px solid #d1d5db;
+  font-size: 0.95rem;
 }
 
+/* Table styling */
 table {
-  margin: 2rem auto; 
+  width: 100%;
   border-collapse: collapse;
+  margin-top: 0.5rem;
 }
 
 th,
 td {
-  padding: 0.5rem 1rem;
-  border: 1px solid #ccc;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+  font-size: 0.9rem;
 }
 
-ul {
+th {
+  background: #f9fafb;
+  font-weight: 600;
+}
+
+tbody tr:hover {
+  background: #eff6ff;
+}
+
+tbody tr {
+  transition: background 0.15s ease;
+  cursor: pointer;
+}
+
+/* Detail panel */
+.domain-list {
   list-style: none;
   padding-left: 0;
+  margin: 0.5rem 0 0;
 }
 
+.domain-list li {
+  padding: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+.detail-heading {
+  margin-bottom: 0.25rem;
+}
+
+.detail-sub {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.table-wrapper {
+  max-height: 320px;
+  overflow-y: auto;
+  border-radius: 0.5rem;
+}

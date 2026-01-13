@@ -41,26 +41,32 @@ function App() {
   const filteredAuthorities = localAuthorities.filter((la) => la.la_district_name.toLowerCase().includes(searchTerm.toLowerCase()));
 
   return (
-    <main style={{ padding: '2rem' }}>
+    <main>
       <h1>Social Value – Deprivation Tool</h1>
+      <h2>Explore deprivation by local authority</h2>
 
-      <input 
-        type="text"
-        placeholder="Search for local authority"
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        style={{ marginBottom: '1rem', padding: '0.5rem', width: '100%', maxWidth: '400px' }}
-      />
+      <div className="layout">
+        <section className="card">
+          <input
+            type="text"
+            placeholder="Search local authority..."
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            className="search-input"
+          />
 
-      <h2>Top 10 most deprived local authorities</h2>
+          <LocalAuthorityTable
+            items={filteredAuthorities}
+            onSelect={handleSelectAuthority}
+          />
+        </section>
 
-      <LocalAuthorityTable
-        items={filteredAuthorities}
-        onSelect={handleSelectAuthority}
-      />
+        <section className="card">
+          <LocalAuthorityDetail detail={selectedDetail} loading={loading} />
+        </section>
+      </div>
+</main>
 
-      <LocalAuthorityDetail detail={selectedDetail} loading={loading}/>
-    </main>
   );
 }
 

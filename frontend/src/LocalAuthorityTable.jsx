@@ -4,6 +4,7 @@ function LocalAuthorityTable({ items, onSelect }) {
   }
 
   return (
+    <div className="table-wrapper">
     <table>
       <thead>
         <tr>
@@ -24,6 +25,7 @@ function LocalAuthorityTable({ items, onSelect }) {
         ))}
       </tbody>
     </table>
+    </div>
   );
 }
 

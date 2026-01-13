@@ -13,12 +13,12 @@ function LocalAuthorityDetail ({ detail, loading }) {
             <p>IMD Ranking from Averages : {detail.imd_average_rank}</p>
 
             <h4>Domain Ranks</h4>
-            <ul>
+            <ul className="domain-list">
               {detail.domains.map((domain) => (
                 <li key={domain.name}>
                     {domain.name}: rank {domain.rank}
                 </li>
-              ))}
+                ))}
             </ul>
         </section>
     )
