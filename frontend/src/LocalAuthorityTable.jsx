@@ -1,6 +1,6 @@
 function LocalAuthorityTable({ items, onSelect }) {
   if (!items.length) {
-    return <p>Loading top 10 authorities...</p>;
+    return <p>Loading authorities...</p>;
   }
 
   return (

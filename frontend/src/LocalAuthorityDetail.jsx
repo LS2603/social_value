@@ -1,4 +1,8 @@
-function LocalAuthorityDetail ({ detail }) {
+function LocalAuthorityDetail ({ detail, loading }) {
+    if(loading) {
+        return <p>Loading details...</p>
+    }
+    
     if(!detail) {
         return <p>Select local authority</p>
     }

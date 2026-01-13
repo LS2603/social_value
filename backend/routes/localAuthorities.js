@@ -5,7 +5,7 @@ const db = require ('../db')
 router.get('/', async (req, res) => {
     try {
     const { rows } = await db.query(
-      `SELECT * FROM local_authorities ORDER BY imd_average_rank LIMIT 10;`
+      `SELECT * FROM local_authorities ORDER BY imd_average_rank;`
     );
     res.json(rows);
     console.log('Top 10 LA names:', rows.map(r => r.la_district_name));
